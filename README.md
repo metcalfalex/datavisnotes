@@ -26,7 +26,7 @@ Understand the client issue in context
 * Question - What needs to change; What are looking to evaluate
 * Strategies might include - Process walk throughs; Client interviews; What works well? What doesn’t work well?
 
-Steps when performing analysis
+Steps when performing analysis  
 1. Data exploration through data visualization  
 2. Generate some hypotheses  
 3. Test the hypotheses  
