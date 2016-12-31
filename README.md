@@ -10,29 +10,30 @@ Checklist - Visualisation Evaluation
 
 ## General Notes
 
-Three questions
+Questions before scoping
 * Do we have the data and can we technically perform the analysis
 * Is there a benefit to performing the analysis 
 * Can the business take action on the results
 
-How do I break the problem down (define)  
-How do I build the hypothesis (define)  
-What do I need to perform the analysis (produce)  
-How can we tailor the output to deliver relevant insights to our clients (consume)  
+Questions before starting analysis
+* How do I break the problem down (define)  
+* How do I build the hypothesis (define)  
+* What do I need to perform the analysis (produce)  
+* How can we tailor the output to deliver relevant insights to our clients (consume)  
 
 Understand the client issue in context
 * Current state - What are the current issues?
 * Question - What needs to change; What are looking to evaluate
 * Strategies might include - Process walk throughs; Client interviews; What works well? What doesn’t work well?
 
-Approach
-1. Data exploration through data visualization
-2. Generate some hypotheses
-3. Test the hypotheses
-4. Second iteration of 2,3
-5. Which hypotheses are most relevant to the exam question
-6. What is the best way to visualize those hypotheses
-7. What is the best way to tie these together into a story and recommendation
+Steps when performing analysis
+1. Data exploration through data visualization  
+2. Generate some hypotheses  
+3. Test the hypotheses  
+4. Second iteration of 2,3  
+5. Which hypotheses are most relevant to the exam question  
+6. What is the best way to visualize those hypotheses  
+7. What is the best way to tie these together into a story and recommendation  
 
 Target audience
 * Who are they
@@ -73,6 +74,65 @@ Organise pre- and post-acquisition meetings
 
 
 ## Checklist - Analytics or Reporting Scope
+
+### Step 1: Business
+
+Business problem
+
+Hypothesis
+
+Current work-around/understanding
+
+Previous analysis
+
+Known DQ issues/exceptions
+
+Outcome of proposed analysis (pick one):
+* Analysis would improve understanding
+* Certain outcomes might be actionable
+* A business decision is on hold awaiting the outcome of analysis
+
+I would like this analysis rerun in the future (pick one):
+* Likely
+* Unlikely
+
+### Step 2: BI
+
+Project name
+
+Business owner
+
+Business problem
+
+Data approach
+
+Analysis approach
+
+Hypothesis
+
+Analysis priorities
+
+Out of scope
+
+Analysis Assumptions
+
+Deliverables
+
+QA Method
+
+Sharepoint/Ticket Id
+
+File Directory
+
+Timeline 
+
+
+Step 3: Business
+
+Questions or clarification of scope
+
+Scope sign off
+
 
 ## Checklist - Visualisation Evaluation
 
