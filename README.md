@@ -7,6 +7,7 @@ General Notes
 Checklist - Data Request  
 Checklist - Analytics or Reporting Scope  
 Checklist - Visualisation Evaluation  
+Telling a story with data
 
 ## General Notes
 
@@ -166,6 +167,33 @@ Understand narrative: Is my reader going to ask “so what”? What is the probl
 
 How is the user going to view this? What screen will they use?
 
+## Telling a story with data
 
+Why tell a story
+- memorable
+- relatable
+- lead to action
+
+How you show your story  
+How you tell your story  
+How you involve your audience  
+
+
+Executive
+- Clarity
+- Brevity
+- Decision
+
+Departmental
+- Understanding
+- Decition
+
+Analyst
+- Understanding
+
+Story arch
+- Beginning: Context
+- Middle: Action/Climax
+- End: Resolution
 
 
